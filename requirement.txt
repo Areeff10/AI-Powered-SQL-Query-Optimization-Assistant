@@ -1,19 +1,11 @@
 langchain
 langchain_community
 python-dotenv
+sqlparse
 langchain-google-genai
 pandas
-langchain-astradb
-streamlit
-tiktoken
-langgraph
-langchainhub
-pypdf
-# google-cloud-vision
-easyocr
-# langchain-astradb
-# tiktoken
-# langchain-core
-# langchain-astradb
+xgboost
+sklearn
+
 
 
